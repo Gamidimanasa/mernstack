@@ -1,0 +1,16 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "creating api",
+  "main": "server.js",
+  "scripts": {
+    "test": "basic npm commands"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "console"
+  ],
+  "author": "",
+  "license": "ISC"
+}
